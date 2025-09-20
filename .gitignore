@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+# Build outputs
+/dist
+/build
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
